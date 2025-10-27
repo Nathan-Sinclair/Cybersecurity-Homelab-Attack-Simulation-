@@ -1,4 +1,4 @@
-# Cybersecurity-Homelab-Attack-Simulation-
+# Cybersecurity-Homelab-Attack-Simulation
 
 ## Purpose:
 This project simulates a full end‑to‑end cyberattack against a purpose‑built homelab to validate SIEM detections and response. It demonstrates recon, initial access, lateral movement, privilege escalation, data exfiltration, and persistence, while showing how Wazuh alerts and supports investigation — for controlled, educational use only.
