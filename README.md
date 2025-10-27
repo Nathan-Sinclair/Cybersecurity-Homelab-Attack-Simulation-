@@ -11,6 +11,10 @@ This project simulates a full end‑to‑end cyberattack against a purpose‑bui
 - Data exfiltration with scp and persistence via a scheduled PowerShell reverse shell.
 - Validated detections and investigated alerts in Wazuh; documented snapshots and commands for reproducibility.
 
+## Documentation/Step By Step Guide:
+Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.
+[Here Is The Link](Cybersecurity%20Homelab%20Attack%20Simulation%20Documentation.pdf)
+
 ## Skills Demonstrated:
 - **VM & Lab Setup**: Provisioned and managed Kali, Windows, and Linux VMs with NAT networking and snapshots.
 - **Offensive Security**: Performed reconnaissance, SSH brute-force, phishing, lateral movement, and privilege escalation.
@@ -21,10 +25,6 @@ This project simulates a full end‑to‑end cyberattack against a purpose‑bui
 
 ## Prerequisites & Dependencies:
 Refer to Cybersecurity-Homelab-Building-The-Environment readme.
-
-## Documentation/Step By Step Guide:
-Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.
-[Here Is The Link](Cybersecurity%20Homelab%20Attack%20Simulation%20Documentation.pdf)
 
 ## Credits:
 
