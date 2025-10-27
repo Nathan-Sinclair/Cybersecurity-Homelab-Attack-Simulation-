@@ -24,6 +24,7 @@ Refer to Cybersecurity-Homelab-Building-The-Environment readme.
 
 ## Documentation/Step By Step Guide:
 Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.
+[Here Is The Link](Cybersecurity%20Homelab%20Attack%20Simulation%20Documentation.pdf)
 
 ## Credits:
 
